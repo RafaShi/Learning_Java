@@ -1,0 +1,60 @@
+🟢 Nível Iniciante (sintaxe, variáveis, entrada e saída)
+
+Olá, Mundo!
+Crie um programa que exibe "Olá, Mundo!" no console.
+
+Soma de Números
+Peça dois números inteiros ao usuário e mostre a soma deles.
+
+Par ou Ímpar
+Leia um número e diga se ele é par ou ímpar.
+
+Tabuada
+Peça um número e mostre a tabuada desse número de 1 até 10.
+
+Conversor de Temperatura
+Leia uma temperatura em Celsius e converta para Fahrenheit.
+---------------------------------------------------------------------------------------------------------------
+
+🟡 Nível Intermediário (loops, vetores e funções)
+
+Maior e Menor Número
+Leia 5 números inteiros e mostre qual é o maior e qual é o menor.
+
+Média de Notas
+Peça 4 notas de um aluno e calcule a média. Depois, diga se o aluno está aprovado (média ≥ 7), recuperação (5 ≤ média < 7) ou reprovado (média < 5).
+
+Números Primos
+Peça um número e diga se ele é primo.
+
+Inversão de String
+Peça uma palavra e mostre ela invertida (ex: "Java" → "avaJ").
+
+Array de Inteiros
+Leia 10 números inteiros em um array e mostre:
+
+a soma de todos os números
+
+a média
+
+o maior e o menor
+---------------------------------------------------------------------------------------------------------------
+
+🔵 Nível Avançando (POO, classes, listas)
+
+Classe Pessoa
+Crie uma classe Pessoa com atributos nome, idade e cidade. Depois, crie objetos dessa classe e mostre suas informações.
+
+Classe Conta Bancária
+Crie uma classe ContaBancaria com métodos depositar, sacar e mostrarSaldo.
+
+Não permita saque se o saldo for insuficiente.
+
+Lista de Produtos
+Crie uma classe Produto com nome e preço. Depois, use um ArrayList para armazenar produtos e mostre o total da compra.
+
+Jogo de Adivinhação
+O computador escolhe um número aleatório de 1 a 100. O usuário tenta adivinhar, e o programa dá dicas se o número é maior ou menor até acertar.
+
+Sistema de Cadastro
+Faça um programa que permita cadastrar várias pessoas (nome e idade) em um ArrayList e depois mostre todas cadastradas.
